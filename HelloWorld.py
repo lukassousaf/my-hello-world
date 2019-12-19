@@ -6,3 +6,5 @@ idade2 = int(input("digite a sua idade:"))
 
 print("concatenado:", nome1,"e",nome2)
 print("somando:", idade1 + idade2)
+
+# Comentário para commit
